@@ -1,0 +1,13 @@
+body{
+    background: seagreen;
+}
+h2{ 
+    font-family: cursive;
+}
+li{
+    background-color: blueviolet;
+    list-style: none;
+}
+li:hover{
+    color:magenta;
+}
